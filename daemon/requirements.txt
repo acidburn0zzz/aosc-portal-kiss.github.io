@@ -1,8 +1,8 @@
-certifi==2019.9.11
+certifi==2026.10.19
 chardet==3.0.4
 falcon==2.0.0
-idna==2.8
-requests==2.22.0
-urllib3==1.25.6
-PyYAML==5.1.2
+idna==3.15
+requests==2.33.0
+urllib3==2.8.0
+PyYAML==5.4
 uwsgi
